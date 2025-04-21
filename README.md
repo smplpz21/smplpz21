@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 [Playwright-Framework](https://github.com/smplpz21/Playwright-Framework) – A typescript-based Playwright automation framework focused on UI testing and modular design (Can be extended for API testing).  
+🔹 [Playwright-Framework](https://github.com/smplpz21/Playwright-Framework) – A typescript-based Playwright automation framework focused on UI testing and modular design.  
 🔹 [Playwright-Framework-Typescript](https://github.com/smplpz21/Playwright-Framework-Typescript) – A TypeScript-powered Playwright testing framework with enhanced type safety and structure.
 
 ---
