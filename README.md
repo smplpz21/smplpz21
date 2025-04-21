@@ -37,7 +37,7 @@ When I’m not working with code, you’ll probably find me:
 
 - 🏀 Shooting hoops or watching a good basketball game  
 - 🏋️‍♂️ Lifting at the gym  
-- 🎮 Dropping frags in **Valorant** or **Counter-Strike 2**  
+- 🎮 Dropping frags in **Valorant** or **CS2**  
 - 👨‍💻 Learning new tech or sharpening my coding skills just for the fun of it
 
 ---
