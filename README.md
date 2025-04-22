@@ -26,6 +26,7 @@
 
 ## 🚀 Featured Projects
 
+🔹 [qa-portfolio-documentation](https://github.com/smplpz21/Playwright-Framework-Typescript) – A sample test artifacts (Test Plan, Test Cases and Bug Reports)    
 🔹 [Playwright-Framework](https://github.com/smplpz21/Playwright-Framework) – A typescript-based Playwright automation framework focused on UI testing and modular design.  
 🔹 [Playwright-Framework-Typescript](https://github.com/smplpz21/Playwright-Framework-Typescript) – A TypeScript-powered Playwright testing framework with enhanced type safety and structure.
 
