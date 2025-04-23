@@ -36,16 +36,14 @@
 
 When I’m not working with code, you’ll probably find me:
 
-- 🏀 Shooting hoops or watching a good basketball game  
+- 🏀 Shooting hoops 
 - 🏋️‍♂️ Lifting at the gym  
 - 🎮 Dropping frags in **Valorant** or **CS2**  
-- 👨‍💻 Learning new tech or sharpening my coding skills just for the fun of it
+- 👨‍💻 Learning new tech or sharpening my coding skills 
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/smplpz21/)  
+## 📫 Let’s Connect 
 - 📬 Email: smplpz21@gmail.com
 
 ---
