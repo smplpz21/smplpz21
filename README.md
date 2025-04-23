@@ -44,7 +44,7 @@ When I’m not working with code, you’ll probably find me:
 ---
 
 ## 📫 Let’s Connect 
-- 📬 Email: smplpz21@gmail.com
+📬 Email: smplpz21@gmail.com
 
 ---
 
